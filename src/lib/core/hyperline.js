@@ -27,12 +27,12 @@ class HyperLine extends Component {
             align-items: center;
             position: absolute;
             overflow: hidden;
-            bottom: 0;
+            bottom: 30px;
             width: 100%;
             height: 18px;
-            font: bold 10px Monospace;
+            font: bold 12px Monospace;
             pointer-events: none;
-            background: rgba(0, 0, 0, 0.08);
+            background: transparent;
             margin: 2px 0;
             padding: 0 10px;
           },
